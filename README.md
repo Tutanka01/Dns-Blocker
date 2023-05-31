@@ -6,4 +6,4 @@ J'ai utilisé Docker pour créer un conteneur contenant un serveur DNS configur�
  ```bash
   docker compose up -d
  ```
- Puis mettre votre addresse IP en tant que serveur DNS dans les parametres de la machine.
+ Puis mettre l'addresse : 127.0.0.1 , en tant que serveur DNS dans les parametres de la machine.
